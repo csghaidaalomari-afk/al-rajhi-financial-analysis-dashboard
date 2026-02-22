@@ -56,6 +56,10 @@ The dark executive theme and structured layout were intentionally selected to en
 
 
 
+https://www.figma.com/design/kgnFCtJH1f95SmtpNEuJk2/Untitled?node-id=0-1&t=VtjSSxQdgXGceBH8-1
+
+
+
 High-fidelity wireframes were created in Figma prior to implementation to define layout structure, spacing, and component hierarchy.
 
 ##Key Insights
